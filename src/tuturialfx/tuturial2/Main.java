@@ -14,6 +14,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) throws Exception {
 		
 		BorderPane root = new BorderPane();
+		
 		VBox vBox = new VBox(10);
 		HBox hBox = new HBox(10);
 		
